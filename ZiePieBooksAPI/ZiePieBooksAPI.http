@@ -1,0 +1,6 @@
+@ZiePieBooksAPI_HostAddress = http://localhost:5296
+
+GET {{ZiePieBooksAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
